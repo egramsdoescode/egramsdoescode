@@ -14,7 +14,7 @@
 - 📬 Reach me at: **ethangrams1997@gmail.com**
 
 ---
-### Featured Project: ![Pomo-Kan](https://github.com/egramsdoescode/pomo-kan)
+### Featured Project: [Pomo-Kan](https://github.com/egramsdoescode/pomo-kan)
 
 <video src="https://github.com/user-attachments/assets/78e29134-878a-479d-9c71-384933de3364" ></video>
 
