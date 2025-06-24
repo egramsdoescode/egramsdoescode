@@ -14,7 +14,15 @@
 - 📬 Reach me at: **ethangrams1997@gmail.com**
 
 ---
+### Featured Project: Pomo-Kan
 
+<video src="https://github.com/user-attachments/assets/78e29134-878a-479d-9c71-384933de3364" ></video>
+
+<div align="center">
+  <p>A responsive, theme-adaptive web app designed to help users stay productive using a Pomodoro timer system and an integrated Kanban board. Built with React and Tailwind CSS.</p>
+</div>
+
+---
 ### 🛠️ Tech Stack
 
 #### Languages
