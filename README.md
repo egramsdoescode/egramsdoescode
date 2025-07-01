@@ -48,11 +48,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egramsdoescode&theme=gruvbox&hide_border=false&layout=compact" width="50%" />
 </div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=egramsdoescode&theme=gruvbox&no-frame=false&no-bg=true&margin-w=10" />
-</div>
