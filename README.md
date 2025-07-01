@@ -31,10 +31,6 @@
   <p>A responsive, theme-adaptive web app designed to help users stay productive using a Pomodoro timer system and an integrated Kanban board. Built with React and Tailwind CSS.</p>
 </div>
 
-<a href="https://github.com/egramsdoescode/pomo-kan">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=egramsdoescode&theme=catppuccin_mocha" />
-</a>
-
 ---
 <div align="center">
 
@@ -54,17 +50,3 @@
 </div>
 
 ---
-
-<div align="center">
-
-### 📈 GitHub Stats
-  
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=egramsdoescode&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egramsdoescode&theme=catppuccin_mocha&hide_border=false&layout=compact" width="50%" />
-</div>
