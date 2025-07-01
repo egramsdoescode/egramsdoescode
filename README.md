@@ -10,10 +10,10 @@
  
 ### 👨‍💻 About Me
 
-  🧠 Currently diving deep into **Golang**, building **REST APIs**, and mastering **DSA**
-  💬 Love talking about systems design, open source, and software architecture
-  🎸 I play a ton of instruments—ask me about my favorite!
-  📬 Reach me at: **ethangrams1997@gmail.com**
+  🧠 Currently diving deep into **Golang**, building **REST APIs**, and mastering **DSA**  
+  💬 Love talking about systems design, open source, and software architecture  
+  🎸 I play a ton of instruments—ask me about my favorite!  
+  📬 Reach me at: **ethangrams1997@gmail.com**  
 
 </div>
 
