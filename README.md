@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ethan 👋</h1>
 
 <p align="center">
-  🚀 Full-stack Developer • Tech Enthusiast • Musician
+  🚀 Full-stack Developer • Tech Enthusiast
 </p>
 
 ---
@@ -11,8 +11,7 @@
 ### 👨‍💻 About Me
 
   🧠 Currently diving deep into **Golang**, building **REST APIs**, and mastering **DSA**  
-  💬 Love talking about systems design, open source, and software architecture  
-  🎸 I play a ton of instruments—ask me about my favorite!  
+  💬 Love talking about systems design, open source, and software architecture   
   📬 Reach me at: **ethangrams1997@gmail.com**  
 
 </div>
