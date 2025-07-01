@@ -42,9 +42,9 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=egramsdoescode&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=egramsdoescode&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egramsdoescode&theme=gruvbox&hide_border=false&layout=compact" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egramsdoescode&theme=catppuccin_mocha&hide_border=false&layout=compact" width="50%" />
 </div>
