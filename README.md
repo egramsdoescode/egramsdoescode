@@ -15,6 +15,21 @@
   📬 Reach me at: **ethangrams1997@gmail.com**  
 
 </div>
+---
+
+<div align="center">
+
+### Featured Project: [ai-agent](https://github.com/egramsdoescode/ai-agent)
+
+</div>
+
+<video src="https://github.com/user-attachments/assets/2636f242-1a33-4904-8c62-4d3df3053716" ></video>
+
+<div align="center">
+  <p>
+    A sandboxed CLI-based AI coding agent built on Google Gemini that can inspect, modify, and execute files within a constrained project directory. Designed as an educational experiment in controlled autonomy, with all AI-driven file changes recorded in an auditable change log.
+  </p>
+</div>
 
 ---
 
