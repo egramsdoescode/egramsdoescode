@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ethan 👋</h1>
 
 <p align="center">
-  🚀 Full-stack Developer &nbsp;&nbsp;&nbsp;&nbsp; 💻 Tech Enthusiast
+  🚀 Software Engineer &nbsp;&nbsp;&nbsp;&nbsp; 💻 Tech Enthusiast
 </p>
 
 ---
