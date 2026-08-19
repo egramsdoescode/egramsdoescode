@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ethan 👋</h1>
 
 <p align="center">
-  🚀 Software Engineer &nbsp;&nbsp;&nbsp;&nbsp; 💻 Tech Enthusiast
+  🚀 AI Engineer &nbsp;&nbsp;&nbsp;&nbsp; 💻 Tech Enthusiast
 </p>
 
 ---
@@ -9,9 +9,8 @@
 <div align="center">
  
 ### 👨‍💻 About Me
-
-  🧠 Currently diving deep into **Golang**, building **REST APIs**, and mastering **DSA**  
-  💬 Love talking about systems design, open source, and software architecture   
+ 
+  💬 Love talking about system design, open source, and anything tech!   
   📬 Reach me at: **ethangrams1997@gmail.com**  
 
 </div>
